@@ -1,0 +1,2 @@
+https://google.com;[name=q];#res .g
+https://ya.ru;[name=text];#search-result li
